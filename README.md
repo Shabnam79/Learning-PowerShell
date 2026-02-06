@@ -1,4 +1,4 @@
-# PowerShell Learning – 60 Days
+# PowerShell Learning – 30 Days
 
 ## Objective
 This repository tracks my daily PowerShell learning journey from fundamentals to advanced automation.
